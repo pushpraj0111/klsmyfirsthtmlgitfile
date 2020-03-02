@@ -1,0 +1,90 @@
+.bodycol {
+	background-color: #ffccb3;
+}
+
+.signupform {
+	border: 1px solid lightgreen;
+	background-color: skyblue;
+	text-align: center;
+	padding: 30px;
+	margin-left: 350px;
+	margin-top: 25px;
+	width: 450px;
+	height: 550px;
+	line-height: 2.5;
+	font-family: lemenada;
+	}
+.signin {
+	background-color: #ddff99;
+	border: 1px solid navy;
+	text-align: center;
+	line-height: 2.5;
+	width: 500px;
+	height: 610px;
+	margin: auto;
+}
+
+h1 {
+	color: red;
+	text-decoration: underline;
+}
+
+form {
+	text-align: center; 
+}
+
+.centerClass{
+	text-align: center;
+}
+
+.btncolor{
+	background-color: seagreen;
+}
+
+.cncbtncolor{
+	background-color: tomato;
+}
+.divalign {
+	text-align: center;
+}
+.emailspan{
+	padding-right: 45px;
+}
+.passalign{
+	margin-top: 20px;
+	margin-left: 60px;
+}
+
+.spanmargin{
+	margin-right: 30px;
+	
+	display: inline-block;
+	padding: 8px 18px;
+    font-size: 7px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	color: #fff;
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 3px #999; 
+}
+
+.spanmargincancelbtn{
+	display: inline-block;
+	padding: 8px 18px;
+    font-size: 7px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	color: #fff;
+	background-color: #ff3333;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 3px #999;
+  }
+
+		     

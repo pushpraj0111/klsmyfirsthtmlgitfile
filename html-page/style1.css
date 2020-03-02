@@ -1,0 +1,36 @@
+.maindiv {
+	width: 100%;
+	height: 670px;
+	padding-right: 0px;
+	padding-left: 0px;
+	
+
+}
+
+
+
+
+
+
+
+.signupform {
+	border: 1px solid lightgreen;
+	background-color: skyblue;
+	text-align: center;
+	padding: 30px;
+	margin-left: 350px;
+	margin-top: 25px;
+	width: 450px;
+	height: 550px;
+	line-height: 2.5;
+	font-family: lemenada;
+	}
+.signin {
+	background-color: #ddff99;
+	border: 1px solid navy;
+	text-align: center;
+	line-height: 2.5;
+	width: 500px;
+	height: 610px;
+	margin: auto;
+}
